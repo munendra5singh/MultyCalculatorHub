@@ -5,7 +5,9 @@
 (function () {
   var PLATFORMS = [
     { name: 'FreeCourseHub', tag: 'Free verified course links', icon: 'fa-graduation-cap', href: 'https://munendra5singh.github.io/FreeCourseHub/' },
-    { name: 'ExcelSuperGuru', tag: 'Excel tips & templates', icon: 'fa-table', href: '#' }
+    { name: 'ExcelSuperGuru', tag: 'Excel tips & templates', icon: 'fa-table', href: 'https://munendra5singh.github.io/ExcelSuperGuru/' },
+    { name: 'Multy Calculator Hub', tag: 'Multi-purpose calculators', icon: 'fa-calculator', href: '#' },
+    { name: 'smartcalcAi', tag: 'AI powered calculations', icon: 'fa-brain', href: 'https://munendra5singh.github.io/smartCalcAi/' }
   ];
 
   function quickLinks() {
